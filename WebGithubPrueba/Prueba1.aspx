@@ -13,7 +13,7 @@
             <h1>Hola Mundo de GitHub</h1>
 
             <h2>De nada </h2>
-             <h2 hidden="23">De nada </h2>
+             <h2>De nada </h2>
         </div>
     </form>
 </body>
