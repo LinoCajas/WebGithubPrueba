@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Prueba1.aspx" />
+    <Content Include="Prueba2.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -78,6 +79,13 @@
     </Compile>
     <Compile Include="Prueba1.aspx.designer.cs">
       <DependentUpon>Prueba1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Prueba2.aspx.cs">
+      <DependentUpon>Prueba2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Prueba2.aspx.designer.cs">
+      <DependentUpon>Prueba2.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
